@@ -181,7 +181,7 @@ def clickLoop():
             currentTime = time.time()
             if currentKeyHeld:
                 keyboard.press(currentKeyHeld)
-                pyautogui.click()
+                #pyautogui.click()
                 lastKeyPressTime = currentTime
                 keyWasDetected = True
                 time.sleep(np.random.uniform(0.002, 0.008))
