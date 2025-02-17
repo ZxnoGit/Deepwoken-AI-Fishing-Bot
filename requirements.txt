@@ -6,3 +6,4 @@ pywin32
 PyQt5
 psutil
 pygame
+pillow
