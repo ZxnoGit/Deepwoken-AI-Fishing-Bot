@@ -1,15 +1,15 @@
 # Deepwoken AI Fishing Bot
-
-
-
-
-
+.
+.
+.
+.
+.
 **LAST TESTED DECEMBER 2024 IF IT IS NOT WORKING ITS BECAUSE IT IS NO LONGER UPDATED BY ME**
-
-
-
-
-
+.
+.
+.
+.
+.
 This bot automatically fishes in the Roblox game *Deepwoken* using a combination of image detection and pixel color detection.
 
 I made this bot as a personal project and never thought i would be releasing it, so I will respond for support but very rarely because i dont even play deepwoken and dont really care about this project anymore. 
